@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Lasalle\Courses\Semester_3\Multi-Tier\Projects\ETS_winForm\ETS_winForm\obj\Debug\TelethonSystemWin.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lasalle\Courses\Semester_3\Multi-Tier\Projects\ETS_winForm\ETS_winForm\obj\Debug\TelethonSystemWin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lasalle\Courses\Semester_3\Multi-Tier\Projects\ETS_winForm\ETS_winForm\obj\Debug\TelethonSystemWin.Login.resources
+C:\Users\Admin\Desktop\Lasalle\Courses\Semester_3\Multi-Tier\Projects\ETS_winForm\ETS_winForm\obj\Debug\TelethonSystemWin.ETSTelethon.resources
+C:\Users\Admin\Desktop\Lasalle\Courses\Semester_3\Multi-Tier\Projects\ETS_winForm\ETS_winForm\obj\Debug\ETS_winForm.Properties.Resources.resources
+C:\Users\Admin\Desktop\Lasalle\Courses\Semester_3\Multi-Tier\Projects\ETS_winForm\ETS_winForm\obj\Debug\TelethonSystemWin.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Lasalle\Courses\Semester_3\Multi-Tier\Projects\ETS_winForm\ETS_winForm\obj\Debug\TelethonSystemWin.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lasalle\Courses\Semester_3\Multi-Tier\Projects\ETS_winForm\ETS_winForm\bin\Debug\ETS_winForm.exe.config
+C:\Users\Admin\Desktop\Lasalle\Courses\Semester_3\Multi-Tier\Projects\ETS_winForm\ETS_winForm\bin\Debug\ETS_winForm.exe
+C:\Users\Admin\Desktop\Lasalle\Courses\Semester_3\Multi-Tier\Projects\ETS_winForm\ETS_winForm\bin\Debug\ETS_winForm.pdb
+C:\Users\Admin\Desktop\Lasalle\Courses\Semester_3\Multi-Tier\Projects\ETS_winForm\ETS_winForm\obj\Debug\ETS_winForm.exe
+C:\Users\Admin\Desktop\Lasalle\Courses\Semester_3\Multi-Tier\Projects\ETS_winForm\ETS_winForm\obj\Debug\ETS_winForm.pdb
+C:\Users\Admin\Desktop\Lasalle\Courses\Semester_3\Multi-Tier\Projects\ETS_winForm\ETS_winForm\bin\Debug\ETS.dll
+C:\Users\Admin\Desktop\Lasalle\Courses\Semester_3\Multi-Tier\Projects\ETS_winForm\ETS_winForm\bin\Debug\ETS.pdb
+C:\Users\Admin\Desktop\Lasalle\Courses\Semester_3\Multi-Tier\Projects\ETS_winForm\ETS_winForm\obj\Debug\TelethonSystemWin.csproj.CopyComplete
