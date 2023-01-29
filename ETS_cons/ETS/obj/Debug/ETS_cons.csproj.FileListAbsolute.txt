@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lasalle\Courses\Semester_3\Multi-Tier\Projects\ETS_cons\ETS\obj\Debug\ETS_cons.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lasalle\Courses\Semester_3\Multi-Tier\Projects\ETS_cons\ETS\obj\Debug\ETS_cons.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lasalle\Courses\Semester_3\Multi-Tier\Projects\ETS_cons\ETS\obj\Debug\ETS_cons.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lasalle\Courses\Semester_3\Multi-Tier\Projects\ETS_cons\ETS\bin\Debug\ETS.exe.config
+C:\Users\Admin\Desktop\Lasalle\Courses\Semester_3\Multi-Tier\Projects\ETS_cons\ETS\bin\Debug\ETS.exe
+C:\Users\Admin\Desktop\Lasalle\Courses\Semester_3\Multi-Tier\Projects\ETS_cons\ETS\bin\Debug\ETS.pdb
+C:\Users\Admin\Desktop\Lasalle\Courses\Semester_3\Multi-Tier\Projects\ETS_cons\ETS\obj\Debug\ETS.exe
+C:\Users\Admin\Desktop\Lasalle\Courses\Semester_3\Multi-Tier\Projects\ETS_cons\ETS\obj\Debug\ETS.pdb
